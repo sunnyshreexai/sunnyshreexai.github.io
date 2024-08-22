@@ -7,5 +7,6 @@ author_profile: true
 
 * **Teaching Assistant**
     * TA for CSE 5325: ***Software Engineering II*** - Spring'20, Fall'20, Spring'21, Fall'24
+    * TA for CSE 5330: ***Database Systems*** - Summer'20
     * TA for CSE 6324: ***Advanced Topic Software Engineering*** - Fall'18, Spring'19, Fall'19
  
