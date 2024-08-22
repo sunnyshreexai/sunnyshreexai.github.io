@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "Education"
+    url: /education/    
+    
   - title: "Research"
     url: /research/    
     
@@ -16,8 +19,7 @@ main:
   - title: "Contact"
     url: /contact/
     
-  - title: "Education"
-    url: /education/    
+
           
   - #title: "Blog Posts"
     #url: /year-archive/
