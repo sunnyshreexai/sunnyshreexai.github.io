@@ -16,8 +16,8 @@ main:
   - title: "Contact"
     url: /contact/
     
-  - #title: "Education"
-    #url: /education/    
+  - title: "Education"
+    url: /education/    
           
   - #title: "Blog Posts"
     #url: /year-archive/
