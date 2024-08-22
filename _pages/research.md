@@ -5,6 +5,5 @@ permalink: /research/
 author_profile: true
 ---
 
-My research interest is at the intersection of software engineering and artificial intelligence (AI) and deals with the problem of establishing standards, measurements, and safeguards for AI-enabled 
-software systems (AI systems). My research aims to address quality challenges in AI systems using software engineering principles and methodologies to guarantee trustworthy and responsible AI systems.
-I am particularly interested in advancing the state of the art in evaluating AI systems and developing methods, approaches, and tools to test and ensure that AI systems are safe, secure and reliable.
+My research is centered at the intersection of software engineering and artificial intelligence (AI), where I address the critical challenges of establishing standards, measurements, and safeguards for AI-enabled software systems.
+I am particularly focused on the development of Explainable AI (XAI) methodologies, aiming to make machine learning (ML)-based AI systems more transparent and interpretable. My work extends to the testing and debugging of ML based AI-Systems, encompassing critical areas such as privacy testing, security testing, and fairness testing. Ultimately, my research seeks to ensure that AI technologies are not only advanced but also trustworthy, responsible, and aligned with ethical standards.
