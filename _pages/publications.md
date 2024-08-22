@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Manuscripts Under Review / Preparation**
+
+  * **Data Debugging**  
+    <u>Sunny Shree</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
+    Under Preparation.
+
+  * **Effect Of Model Compression on Influence Analysis**  
+    <u>Sunny Shree</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
+    Under Preparation.
+
 **2024**
 
   * **Constructing Surrogate Models in Machine Learning Using Combinatorial Testing and Active Learning.**  
