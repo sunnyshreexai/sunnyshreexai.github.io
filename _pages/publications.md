@@ -9,7 +9,7 @@ author_profile: true
 
   * **Data Debugging**  
     <u>Sunny Shree</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
-    Under Preparation.
+    Under Review.
 
   * **Effect Of Model Compression on Influence Analysis**  
     <u>Sunny Shree</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
