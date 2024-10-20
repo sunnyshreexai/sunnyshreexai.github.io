@@ -19,7 +19,7 @@ author_profile: true
 
   * **Constructing Surrogate Models in Machine Learning Using Combinatorial Testing and Active Learning.**  
     <u>Sunny Shree</u> , Krishna Khadka, Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
-     In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE '24). Association for Computing Machinery, New York, NY, USA, 1645–1654. IEEE/ACM -- [Article](https://doi.org/10.1145/3691620.3695532).
+     In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE '24). Association for Computing Machinery, New York, NY, USA, 1645–1654. IEEE/ACM -- [Article](https://dl.acm.org/doi/10.1145/3691620.3695532).
     
   * **Proxima: A Proxy Model Based Approach To Influence Analysis**  
     <u>Sunny Shree</u> , Jaganmohan Chandrasekaran, Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
