@@ -21,6 +21,10 @@ author_profile: true
 
 **2024**
 
+  * **Leveraging Software Testing Techniques to Explain, Analyze, and Debug Machine Learning Models.**  
+    <u>Sunny Shree</u>.  
+     Computer Science and Engineering Dissertations. 400. MavMatrix -- [Article](https://mavmatrix.uta.edu/cse_dissertations/400/).
+
   * **Constructing Surrogate Models in Machine Learning Using Combinatorial Testing and Active Learning.**  
     <u>Sunny Shree</u> , Krishna Khadka, Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
      In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE '24). Association for Computing Machinery, New York, NY, USA, 1645–1654. IEEE/ACM -- [Article](https://dl.acm.org/doi/10.1145/3691620.3695532).
