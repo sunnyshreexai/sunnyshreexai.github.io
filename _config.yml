@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sunny Shree, Ph.D. Student / ABD"
+title                    : "Sunny Shree, Ph.D."
 title_separator          : "-"
 name                     : &name "Sunny Shree"
 description              : &description "personal description"
