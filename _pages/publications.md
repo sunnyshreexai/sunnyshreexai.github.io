@@ -7,13 +7,17 @@ author_profile: true
 
 **Manuscripts Under Review / Preparation**
 
-  * **Data Debugging**  
+  * **Fairness Testing of ML models using Combinotorial Testing and Autoencoder**  
+    Arjun Dahal, <u>Sunny Shree</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
+    Under Preparation.
+
+  * **Data Debugging: Resolving Misclassifications in Machine Learning Models**  
     <u>Sunny Shree</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
     Under Review.
 
   * **Effect Of Model Compression on Influence Analysis**  
     <u>Sunny Shree</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
-    Under Preparation.
+    Under Review.
 
 **2024**
 
