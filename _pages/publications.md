@@ -6,10 +6,13 @@ author_profile: true
 ---
 
 **Manuscripts Under Review / Preparation**
+   * **DebugML: A Debugging Framework for ML Pipelines**  
+    <u>Sunny Shree</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
+    Under Review.
 
-  * **Fairness Testing of ML models using Combinotorial Testing and Autoencoder**  
+  * **Fairness Testing of Machine Learning Models Using Combinatorial Testing in Latent Space**  
     Arjun Dahal, <u>Sunny Shree</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
-    Under Preparation.
+    Under Review.
 
   * **Data Debugging: Resolving Misclassifications in Machine Learning Models**  
     <u>Sunny Shree</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
@@ -17,7 +20,7 @@ author_profile: true
 
   * **Effect Of Model Compression on Influence Analysis**  
     <u>Sunny Shree</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
-    Under Review.
+    Under Preparation.
 
 **2024**
 
