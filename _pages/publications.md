@@ -10,10 +10,6 @@ author_profile: true
     <u>Sunny Shree</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
     Under Review.
 
-  * **Fairness Testing of Machine Learning Models Using Combinatorial Testing in Latent Space**  
-    Arjun Dahal, <u>Sunny Shree</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
-    Under Review.
-
   * **Data Debugging: Resolving Misclassifications in Machine Learning Models**  
     <u>Sunny Shree</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
     Under Review.
@@ -22,6 +18,12 @@ author_profile: true
     <u>Sunny Shree</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
     Under Preparation.
 
+**2025**
+
+  * **Fairness Testing of Machine Learning Models Using Combinatorial Testing in Latent Space**  
+    Arjun Dahal, <u>Sunny Shree</u> , Yu Lei, Raghu Kacker, and D. Richard Kuhn.
+    In 2025 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW), IEEE -- [Article](upcoming).
+    
 **2024**
 
   * **Leveraging Software Testing Techniques to Explain, Analyze, and Debug Machine Learning Models**  
