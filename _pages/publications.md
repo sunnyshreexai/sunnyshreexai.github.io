@@ -40,7 +40,7 @@ author_profile: true
 
   * **Assessing the Degree of Feature Interactions that Determine a Model Prediction**  
     Krishna Khadka, <u>Sunny Shree</u> , Yu Lei, Raghu Kacker, and D. Richard Kuhn.
-    In 2024 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW), IEEE -- [Article](https://ieeexplore.ieee.org/abstract/document/9898123)).
+    In 2024 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW), IEEE -- [Article](https://ieeexplore.ieee.org/abstract/document/10675910)).
     
 ***2022***
 
