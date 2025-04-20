@@ -22,7 +22,7 @@ author_profile: true
 
   * **Fairness Testing of Machine Learning Models Using Combinatorial Testing in Latent Space**  
     Arjun Dahal, <u>Sunny Shree</u> , Yu Lei, Raghu Kacker, and D. Richard Kuhn.
-    In 2025 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW), IEEE -- [Article](upcoming).
+    In 2025 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW), IEEE -- [Article](https://ieeexplore.ieee.org/abstract/document/10962484).
     
 **2024**
 
