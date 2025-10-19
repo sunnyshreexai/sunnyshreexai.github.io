@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 **Manuscripts Under Review / Preparation**
-   * **DebugML: A Debugging Framework for ML Pipelines**  
-    <u>Sunny Shree</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
+   * **ABLE: Using Adversarial Pairs to Construct Local Models for Explaining Model Predictions**  
+    Krishna Khadka, <u>Sunny Shree</u>, Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
     Under Review.
 
   * **Data Debugging: Resolving Misclassifications in Machine Learning Models**  
