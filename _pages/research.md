@@ -4,7 +4,17 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-My research is centered at the intersection of **Software Engineering** and **Artificial Intelligence (AI)**, where I address the critical challenges of establishing **standards**, **measurements**, and **safeguards** for **AI-enabled software systems**. I focus on enhancing the **reliability**, **transparency**, and **trustworthiness** of **ML-based systems** by developing methodologies that improve their **interpretability**, **robustness**, and **ethical deployment**.
 
-Specifically, I am passionate about advancing **Explainable AI (XAI)**, fine-tuning and deploying **large-scale machine learning (ML) models** with a focus on **reliability** and **transparency**, and innovating new techniques for the **testing** and **debugging** of **ML/AI systems**. My work also encompasses critical areas such as **privacy testing**, **security testing**, and **fairness auditing**. Ultimately, my research seeks to overcome the **engineering challenges** associated with building **AI technologies** that are not only **technically advanced** but also **trustworthy**, **responsible**, and aligned with **societal and ethical standards**.
+As an AI Research Scientist, my work focuses on advancing the capabilities of **Large Language Models (LLMs)**, **Generative AI**, and **Natural Language Processing (NLP)** to build intelligent, scalable, and deployable systems. I bridge cutting-edge research with real-world applications—developing models and frameworks that make AI more adaptive, reliable, and trustworthy in production environments.
 
+I specialize in **transformer-based architectures**, **foundation model development**, and **LLM fine-tuning**, with a focus on practical innovations that improve efficiency, robustness, and interpretability across diverse domains.
+
+## Core Focus Areas
+
+**Large Language Models & Generative AI** Designing and fine-tuning LLMs through supervised fine-tuning (SFT), reinforcement learning from human feedback (RLHF), and instruction tuning. My work emphasizes production-ready generative models optimized for accuracy, latency, and scalability.
+
+**Generative Architectures** Working with transformers, diffusion models, GANs, and VAEs to create multimodal and text-to-X generation pipelines for content synthesis, simulation, and creative AI applications.
+
+**Model Training & Optimization** Applying advanced training strategies—including transfer learning, knowledge distillation, and parameter-efficient fine-tuning—to maximize model performance while reducing compute cost and deployment overhead.
+
+**AI Interpretability & Transparency** Developing explainability tools for model introspection through influence analysis, feature attribution, and attention visualization, enabling developers and stakeholders to better understand and trust model decisions.
