@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI Research Scientist specializing in **Large Language Models (LLMs)**, **Generative AI**, and **Natural Language Processing (NLP)**. Currently, I work at a stealth AI startup (Beta Testing Phase, To be Launched soon), developing scalable, cutting-edge solutions that push the boundaries of language understanding and generation.
+I am an AI Research Scientist specializing in **Large Language Models (LLMs)**, **Generative AI**, and **Natural Language Processing (NLP)**. Currently, I work at a stealth AI startup (Beta Testing, Pre-Launch), developing scalable, cutting-edge solutions that push the boundaries of language understanding and generation.
 
 I hold a PhD in Artificial Intelligence and Machine Learning from the [University of Texas at Arlington](https://www.uta.edu/), where I conducted research under the supervision of [Dr. Jeff Lei](https://www.uta.edu/academics/faculty/profile?username=ylei). My doctoral work focused on improving the reliability and interpretability of ML systems through **Explainable AI (XAI)**, robustness testing, and automated model debugging, leading to practical frameworks for analyzing model failures, mitigating bias, and enhancing performance stability under real-world conditions.
 
