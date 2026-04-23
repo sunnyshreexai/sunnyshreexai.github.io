@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 **Manuscripts Under Review / Preparation**
-   * **ABLE: Using Adversarial Pairs to Construct Local Models for Explaining Model Predictions**  
-    Krishna Khadka, <u>Sunny Shree</u>, Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
-    Under Review.
 
   * **Data Debugging: Resolving Misclassifications in Machine Learning Models**  
     <u>Sunny Shree</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
@@ -17,6 +14,11 @@ author_profile: true
   * **Effect Of Model Compression on Influence Analysis**  
     <u>Sunny Shree</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
     Under Preparation.
+
+**2026**
+   * **ABLE: Using Adversarial Pairs to Construct Local Models for Explaining Model Predictions**  
+    Krishna Khadka, <u>Sunny Shree</u>, Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
+    In Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '26), ACM -- [Preprint](https://arxiv.org/abs/2511.21952).
 
 **2025**
 
